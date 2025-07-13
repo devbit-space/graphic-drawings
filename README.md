@@ -1,7 +1,7 @@
 # 2D-graphics-app-drawing
 Making an app like paint but with not so much functions. Using C# Winforms and OOP knowledge.
 
-## Hi, we are  Georgi and Vasil, software engineering student and here is our project ! 👋
+## Hi, I'm Senior software engineer and here is our project ! 👋
 
 ## Installation
 Install .Net Framework 3.5 From here (https://www.microsoft.com/en-us/download/details.aspx?id=21) and run it in you IDE.
